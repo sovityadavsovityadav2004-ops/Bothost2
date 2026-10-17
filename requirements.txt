@@ -3,3 +3,4 @@ flask
 aiohttp
 requests
 psutil
+openai
