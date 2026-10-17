@@ -1,4 +1,5 @@
-pyTelegramBotAPI
-psutil
-requests
+python-telegram-bot
 flask
+aiohttp
+requests
+psutil
